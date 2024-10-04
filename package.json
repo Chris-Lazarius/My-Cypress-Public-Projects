@@ -1,0 +1,11 @@
+{
+  "name": "project-1",
+  "version": "1.0.0",
+  "description": "My Cypress E2E project. By chris Mukengeshayi, email: Lazariuscm@gmail.com; LinkedIn Chris Mukengeshayi.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Mukengeshayi",
+  "license": "ISC"
+}
